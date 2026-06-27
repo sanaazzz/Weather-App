@@ -10,4 +10,3 @@ Real-time weather application with forecasts.
 - OpenWeather API
 - PostgreSQL
 ##License
-MIT
