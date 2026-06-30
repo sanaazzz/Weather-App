@@ -5,7 +5,7 @@ Real-time weather application with forecasts.
 - Hourly updates
 - Multiple locations
 - Weather maps
-##Tech Stack
+ech Stack
 - React
 - OpenWeather API
 - PostgreSQL
