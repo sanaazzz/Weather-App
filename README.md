@@ -8,5 +8,4 @@ Current weather
 ech Stack
 - React
 - OpenWeather API
-- PostgreSQL
 ##License
