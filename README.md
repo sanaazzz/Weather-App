@@ -8,4 +8,3 @@ Current weather
 ech Stack
 - React
 - OpenWeather API
-##License
