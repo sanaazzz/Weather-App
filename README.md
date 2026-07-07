@@ -7,4 +7,4 @@ Current weather
 - Weather maps
 ech Stack
 - React
-- OpenWeather API
+- OpenWeathe
