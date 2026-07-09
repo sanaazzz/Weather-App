@@ -4,7 +4,7 @@ Current weather
 - 7-day forecast
 - Hourly updates
 - Multiple locations
-- Weather maps
+- Weather 
 ech Stack
 - React
 - OpenWeathe
